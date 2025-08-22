@@ -44,7 +44,7 @@ I enjoy solving real-world problems with AI, data, and embedded systems.
 ---
 
 ## 📫 Connect with Me
-- 📍 Riverside, California  
+- 📍 California  
 - ✉️ **Email:** [gokulknookula@gmail.com](mailto:gokulknookula@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gokul-nookula](https://www.linkedin.com/in/gokul-nookula/)  
 - 💻 **GitHub:** [github.com/GokulNookula](https://github.com/GokulNookula)  
